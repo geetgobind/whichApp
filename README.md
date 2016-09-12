@@ -1,2 +1,3 @@
 # whichApp
-To check whether WhatsApp is running in foreground or not, if yes then shows a toast. 
+To check whether WhatsApp is running in foreground or not, if yes then shows a toast.
+Test App
